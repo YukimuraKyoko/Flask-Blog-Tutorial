@@ -8,6 +8,7 @@ Learning how to use Flask with python
   <li>Open Terminal(cmd), migrate to the source folder</li>
   <li>Install flask by typing: pip install flask</li>
   <li>Install flask-wtf by typing: pip install Flask-WTF</li>
+  <li>Install flask-sqlalchemy by typing: pip install flask-sqlalchemy</li>
   <li>Make sure the flask blog python file is in the source folder</li>
   <li>In terminal type: set FLASK_APP=flaskblog.py , press enter</li>
   <li>In terminal type: set FLASK_DEBUG=1</li>
